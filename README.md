@@ -1,9 +1,30 @@
-# Heat Loss Calculator
+# Overview
+This is a console-based Heat Loss Calculator developed over 8 weeks for my Programming 1 course. It estimates the heat loss for individual rooms and for an entire house, based on user-provided details such as:
 
-## About:
+- Wall dimensions
+- Window glazing type
+- Wall insulation quality
 
-<p>
-  This project was done over a course of 8 weeks for my Intorduction to Programming class. It takes in user input for information about the room, including size of walls, window glazing, and wall insulation. Based on the information provided in class (i.e. the heat loss values), it then calculates the heat loss for each room, and also for the whole house. 
- 
-  The final project implemenets multiple concepts of object oriented programming. 
-</p>
+The calculations are based on the heat loss values and formulas provided during the labs.
+
+# Key Features
+Interactive User Input: Prompts the user to enter room and insulation details.
+
+Room & Whole House Calculations: Provides heat loss estimates for each room and cumulatively for the house.
+
+Object-Oriented Design: Demonstrates OOP principles including:
+
+- Classes and objects
+- Encapsulation
+
+Technologies Used
+Language: Java
+
+Concepts: Object-Oriented Programming, basic input handling, mathematical computations.
+
+# Future Improvements
+Add a Graphical User Interface (GUI) for better usability.
+Support for different climates or external temperatures.
+Export results to a CSV or PDF report.
+
+
