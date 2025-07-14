@@ -23,8 +23,8 @@ Language: Java
 Concepts: Object-Oriented Programming, basic input handling, mathematical computations.
 
 # Future Improvements
-Add a Graphical User Interface (GUI) for better usability.
-Support for different climates or external temperatures.
-Export results to a CSV or PDF report.
+- Add a Graphical User Interface (GUI) for better usability.
+- Support for different climates or external temperatures.
+- Export results to a CSV or PDF report.
 
 
